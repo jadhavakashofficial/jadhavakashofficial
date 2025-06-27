@@ -16,3 +16,12 @@
 ⚙️ DevOps & Tools: Git, GitHub, Docker, Vercel, Render, Netlify
 🧠 Automation: OpenAI API, Claude API, YouTube Data API, WordPress API
 🌍 Other: OAuth 2.0, JWT, Cron Jobs, SEO, DNS, SSL, Hosting
+
+## 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadhavakashofficial&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavakashofficial&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavakashofficial&layout=compact&theme=tokyonight" />
+</p>
+
