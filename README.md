@@ -17,3 +17,4 @@
 🧠 Automation: OpenAI API, Claude API, YouTube Data API, WordPress API
 🌍 Other: OAuth 2.0, JWT, Cron Jobs, SEO, DNS, SSL, Hosting
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jadhavakashofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavakashofficial&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavakashofficial&layout=compact&theme=tokyonight&hide_border=true" /> </p>
