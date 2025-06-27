@@ -1,155 +1,60 @@
-# 💀 Akash Jadhav
+# Akash Jadhav
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+Full+Stack+Web+Developer;%3E+MERN+%7C+AI+Automation+%7C+DevOps;%3E+Building+the+future...;%3E+System.out.println(%22Hello+World%22);" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%7C+MEAN+%7C+Next.js" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20the%20Matrix&fontSize=30&fontColor=00FF41&animation=twinkling" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=2563eb" alt="Profile Views" />
 </div>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗     ███╗   ███╗ ██████╗ ██████╗ ███████╗  ║
-║  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝  ║
-║  ███████║███████║██║     █████╔╝ █████╗  ██████╔╝    ██╔████╔██║██║   ██║██║  ██║█████╗    ║
-║  ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗    ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝    ║
-║  ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗  ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+## Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥%20HACKER%20MODE-ACTIVATED-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FF41&labelColor=000000" />
-</div>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,python,java" />
 
-## 🛠️ **< TECH_ARSENAL />**
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" />
 
-<div align="center">
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-### **⚡ CORE_LANGUAGES**
-<img src="https://skillicons.dev/icons?i=js,python,java&theme=dark" />
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,docker,wordpress" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
 
-### **🚀 FULL_STACK_WEAPONS**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind&theme=dark" />
-
-### **🤖 AI_AUTOMATION_MATRIX**
-<img src="https://img.shields.io/badge/OpenAI-00FF41?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Claude-FF0000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/🤖%20Bot%20Integration-00FF41?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/🔥%20Automation%20Agents-FF0000?style=for-the-badge&logoColor=white" />
-
-### **☁️ DEVOPS_DEPLOYMENT_ZONE**
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,docker&theme=dark" />
-<img src="https://img.shields.io/badge/Render-00FF41?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Railway-FF0000?style=for-the-badge&logo=railway&logoColor=white" />
-
-### **🔧 OTHER_HACKING_TOOLS**
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-<img src="https://img.shields.io/badge/Shopify-00FF41?style=for-the-badge&logo=shopify&logoColor=black" />
-<img src="https://img.shields.io/badge/JWT-FF0000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-00FF41?style=for-the-badge&logo=oauth&logoColor=black" />
-
-</div>
+**AI & Automation**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-FF6B35?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Bot_Integration-2563EB?style=flat&logo=robot&logoColor=white" />
 
 ---
 
-## 📊 **< SYSTEM_STATS />**
+## GitHub Stats
 
 <div align="center">
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41&fire_color=00FF41)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6&theme=default&hide_border=true" />
 </div>
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)
-
-</div>
-
----
-
-## 📊 **< WEEKLY_DEV_BREAKDOWN />**
-
-```console
-┌─[akash@terminal]─[~/dev]
-└──╼ $ cat weekly_stats.log
-```
-
-<!--START_SECTION:waka-->
-```text
-🔥 Programming Languages:
-JavaScript   ████████████████████████▓   85.2%  ⚡
-Python       ███████▓░░░░░░░░░░░░░░░░░   28.4%  🐍
-Java         ████▓░░░░░░░░░░░░░░░░░░░░   15.6%  ☕
-TypeScript   ███▓░░░░░░░░░░░░░░░░░░░░░   12.8%  📘
-CSS          ██▓░░░░░░░░░░░░░░░░░░░░░░    8.3%  🎨
-
-💻 Active Time: 42h 30m  |  🚀 Commits: 127  |  🔥 Streak: 15 days
-```
-<!--END_SECTION:waka-->
-
-```console
-└──╼ $ echo "Status: Currently building the future..." 
-Status: Currently building the future... ✅
-```
-
----
-
-## 🌊 **< CONTRIBUTION_MATRIX />**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&theme=react-dark" />
-</div>
-
----
-
-## 🎯 **< HACKER_TROPHIES />**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" />
-</div>
-
----
-
-## 🔗 **< CONNECT_TO_MATRIX />**
-
-<div align="center">
-
-```bash
-┌─[Find me @]
-├─[LinkedIn]─────► https://linkedin.com/in/akashjadhav
-├─[Email]────────► jadhavakashofficial@gmail.com  
-├─[LeetCode]─────► https://leetcode.com/akashjadhav
-└─[Portfolio]────► https://akashjadhav.dev
-```
-
-[![Matrix LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/akashjadhav)
-[![Hack Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhavakashofficial@gmail.com)
-[![Code LeetCode](https://img.shields.io/badge/LeetCode-00FF41?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akashjadhav)
-[![Portfolio Hack](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akashjadhav.dev)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-
-```console
-[akash@github ~]$ whoami
-> Full Stack Developer | AI Automation Expert | DevOps Engineer
-[akash@github ~]$ cat status.txt  
-> Building tomorrow's web, today 🚀
-[akash@github ~]$ sudo rm -rf bugs/
-> All bugs eliminated ✅
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-
-**⚡ "Code is like humor. When you have to explain it, it's bad." ⚡**
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashjadhav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jadhavakashofficial@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/akashjadhav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://akashjadhav.dev)
 
 </div>
