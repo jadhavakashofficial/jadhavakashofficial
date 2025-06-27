@@ -1,18 +1,11 @@
 # 👋 Hi, I'm **Akash Jadhav**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+%7C+MEAN+%7C+Next.js+Expert;AI+Automation+%7C+DevOps+Engineer;Building+Amazing+Web+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+%7C+MEAN+%7C+Next.js+Expert;AI+Automation+Specialist;Building+Digital+Solutions" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6366f1&labelColor=1e293b" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366f1&labelColor=1e293b" alt="Followers" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,4,5,26&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=28&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,14&height=120&section=header&animation=fadeIn" />
 </div>
 
 ## 🚀 **Tech Stack**
@@ -39,7 +32,7 @@
 ### **🤖 AI & Automation**
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" width="70" />
 <img src="https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=anthropic&logoColor=white" width="65" />
-<img src="https://img.shields.io/badge/Bots-6366F1?style=flat-square&logo=robot&logoColor=white" width="55" />
+<img src="https://img.shields.io/badge/Bots-FF6B6B?style=flat-square&logo=robot&logoColor=white" width="55" />
 
 ### **☁️ DevOps & Tools**
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="60" />
@@ -57,98 +50,106 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎯 **Professional Achievements**
 
 <div align="center">
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&icon_color=6366f1&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://img.shields.io/badge/✅%20Completed-23%2B%20Live%20Fullstack%20Projects-4CAF50?style=for-the-badge&labelColor=1976D2&logoColor=white" />
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://img.shields.io/badge/🤖%20Built-12%2B%20AI%20Automations-FF6B6B?style=for-the-badge&labelColor=E91E63&logoColor=white" />
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🌐 **Live Projects Portfolio**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
+
+| **🚀 Project** | **🔗 Live Link** | **🚀 Project** | **🔗 Live Link** |
+|:---|:---:|:---|:---:|
+| **The Alc World** | [🌐 Visit](https://thealcworld.in) | **Sanchay Kathak** | [🌐 Visit](https://sanchaykathak.com) |
+| **Classic Jobs** | [🌐 Visit](https://classicjobs.in) | **Postman Oil** | [🌐 Visit](https://postmanoil.com) |
+| **Classic Profile** | [🌐 Visit](https://classicprofile.com) | **Online Study 4U** | [🌐 Visit](https://onlinestudy4u.in) |
+| **Placement Wallah** | [🌐 Visit](https://placementwallah.in) | **Kamthe PMC** | [🌐 Visit](https://kamthepmc.com) |
+| **Classic Technology** | [🌐 Visit](https://classictechnology.in) | **Wellverse** | [🌐 Visit](https://wellverse.co.in) |
+| **Jeetu Holidays** | [🌐 Visit](https://jeetuholidays.in) | **Bangalore Civils** | [🌐 Visit](https://bangalorecivils.in) |
+| **Mothers Nest** | [🌐 Visit](https://mothersnest.co.in) | **Urban Dec** | [🌐 Visit](https://urbandec.in) |
+| **Classic Projects** | [🌐 Visit](https://classicprojects.in) | | |
+
 </div>
 
 ---
 
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
----
-
-## 💻 **Weekly Development Breakdown**
+## 💻 **Previous Month Development Breakdown**
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-```text
-🔥 This Week's Programming Languages
-
-JavaScript   ████████████████████████▓   78.5%  ⚡ 
-Python       ██████████▓░░░░░░░░░░░░░░   42.3%  🐍
-TypeScript   ████████▓░░░░░░░░░░░░░░░░   35.2%  📘
-CSS          ██████▓░░░░░░░░░░░░░░░░░░   28.8%  🎨
-Java         ████▓░░░░░░░░░░░░░░░░░░░░   18.1%  ☕
-HTML         ███▓░░░░░░░░░░░░░░░░░░░░░   12.4%  🌐
-
-📊 Total Active Coding Time: 45h 32m
-🚀 Projects Worked On: 8
-💡 Commits This Week: 127
-🔥 Current Streak: 23 days
 ```
-<!--END_SECTION:waka-->
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        📊 CODING ACTIVITY - 160 HOURS                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🔥 MERN Stack Development                                                   ║
+║  ████████████████████████████████████████████████▓░░░  85.2% │ 136.3 hrs    ║
+║                                                                              ║
+║  🐍 Python & AI Automation                                                  ║
+║  ██████████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35.8% │  57.3 hrs    ║
+║                                                                              ║
+║  ☕ Java Development                                                         ║
+║  ████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18.4% │  29.4 hrs    ║
+║                                                                              ║
+║  🎨 UI/UX & Styling                                                         ║
+║  ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12.7% │  20.3 hrs    ║
+║                                                                              ║
+║  ⚙️ DevOps & Deployment                                                      ║
+║  ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8.9% │  14.2 hrs    ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  📈 Projects Completed: 4    🚀 Live Deployments: 6    🤖 AI Integrations: 3 ║
+║  💡 Total Commits: 247       🔥 Current Streak: 28 days                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+**🎯 Key Focus Areas:**
+- **React & Next.js** Full-Stack Applications
+- **Node.js & Express** Backend Development  
+- **MongoDB & MySQL** Database Management
+- **AI API Integration** & Automation Tools
+- **AWS & Vercel** Cloud Deployments
 
 </div>
 
 ---
 
-## 🌟 **Featured Projects Showcase**
+## 👨‍💻 **About Me**
 
 <div align="center">
   
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-  
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
+**Confident Web & AI Developer** specializing in building scalable, modern web applications with seamless AI integrations. I transform ideas into powerful digital solutions that drive business growth.
 
 </div>
 
 ---
 
-## 🔗 **Let's Connect!**
+## 🤝 **Let's Connect!**
 
 <div align="center">
   
   <a href="https://linkedin.com/in/akashjadhav">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6366f1" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="mailto:jadhavakashofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=dc2626" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://leetcode.com/akashjadhav">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=f59e0b" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
   <a href="https://akashjadhav.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
 </div>
@@ -156,9 +157,5 @@ HTML         ███▓░░░░░░░░░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,4,5,26&height=100&section=footer&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20poetry%2C%20it%20should%20be%20short%20and%20concise&author=Akash%20Jadhav" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,14&height=100&section=footer&animation=fadeIn" />
 </div>
