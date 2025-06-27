@@ -136,7 +136,7 @@
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/akashjadhav">
+  <a href="https://www.linkedin.com/in/classictechak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
@@ -144,11 +144,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://leetcode.com/akashjadhav">
+  <a href="https://leetcode.com/u/jadhavakash/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
-  <a href="https://akashjadhav.dev">
+  <a href="https://classicprofile.com/jadhavakash">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
